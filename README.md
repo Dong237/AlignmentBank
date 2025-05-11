@@ -1,7 +1,58 @@
 # LLManager
-I'm hosting my own paper reading notes in this project (currently focus on fundamental LLM techniques and LLM reasoning research),along with some reproduction code of essential LLM tech, planning to scale it to community service later...
+This project serves as a personal repository for curated paper reading notes—currently centered on foundational large language model (LLM) techniques and LLM reasoning research—alongside selective code reproductions of key methodologies. 
 
-## Attention Mechanism
+
+The mission is to build a continuously evolving, high-quality repository of theoretical and empirical insights into large language models (LLMs), with an emphasis on alignment. The broader vision is to evolve this initiative into a community-oriented resource in the future. 
+
+The repository is actively maintained with weekly updates.
+
+## 📂 Areas Covered (To be expanded)
+
+| Theme                | Subtopics |
+|----------------------|-----------|
+| Attention Mechanisms | MHA, MQA, SWA, GQA |
+| LLM Architectures    | Dense, MoE |
+| LLM Family           | GPT, LLaMA, Qwen, DeepSeek, etc. |
+| LLM Alignment        | Algorithms, LLM Reasoning etc. |
+| xxxxx                |        xxxxx                 |
+
+
+
+## 📚 Catalog
+
+1. [Attention Mechanism](#attention-mechanism)
+
+2. [LLM Architecture Implementations](#llm-architecture-implementations)
+
+3. [LLM Family](#llm-family)
+    - [GPTs](#gpts)
+    - [Llamas](#llamas)
+    -  [Qwens](#qwens)
+    -  [DeepSeek](#deepseek)
+    -  [Mistral](#mistral)
+    -  [AI2](#ai2)
+    -  [Google](#google)
+
+4. [LLM Alignment](#llm-alignment)
+
+    - [Algorithms](#algorithms)
+
+        - [Supervised Fine-Tuning](#supervised-fine-tuning)
+
+        - [Reinforcement Learning](#reinforcement-learning)
+
+    - [LLM Reasoning](#llm-reasoning)
+
+        - [Verifiers](#verifiers---reasoning-with-verification)
+
+        - [Proposer](#proposer-reasoning-by-changing-distribution)
+
+        - [Planning](#planning)
+
+
+
+
+## 🧠 Attention Mechanism
 
 - Scaled dot-product self-attention / Multi-Head Attention (MHA): [Attnetion is all you need](https://vaulted-hardware-c41.notion.site/Attention-Is-All-You-Need-Vaswani-et-al-2017-1b92f406e62680bea2b9c43f2513e12e?pvs=73)
 
@@ -11,13 +62,13 @@ I'm hosting my own paper reading notes in this project (currently focus on funda
 
 - Grouped-Query Attention: [Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://vaulted-hardware-c41.notion.site/GQA-Training-Generalized-Multi-Query-Transformer-Models-from-Multi-Head-Checkpoints-Ainslie-et-al--1be2f406e62680109cc9f88c614e26f8)
 
-## LLM Architecture Implementations
+## 🏗️ LLM Architecture Implementations
 
 - [Reproducing dense models with GPT-2 as an example](./code/architectures/Dense/) (largely inspired by [Andrej Karpathy's video](https://www.youtube.com/watch?v=l8pRSuU81PU&t=11056s))
 
 - Reproducing MoE models
 
-## LLM Family
+## 🧬 LLM Family
 
 ### GPTs
 
@@ -81,7 +132,7 @@ I'm hosting my own paper reading notes in this project (currently focus on funda
 
 - Gemma 2
 
-## LLM Alignment
+## 🎯 LLM Alignment
 
 ### Algorithms
 
