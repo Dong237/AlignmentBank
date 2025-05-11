@@ -1,5 +1,5 @@
 # 🏛️ AlignmentBank
-**AlignmentBank** is an ongoing repository of paper notes and selective code reproductions, focused on foundational LLM techniques, reasoning research, and, above all, alignment. It is a “bank” of that aims to facilitate alignment-related knowledge flow with zero interest rate 😎.
+**AlignmentBank** is an ongoing repository of paper notes and selective code reproductions, focused on foundational LLM techniques, reasoning research, and, above all, alignment. It is a “bank” which aims to facilitate alignment-related knowledge flow with zero interest rate 😎.
 
 The mission is to foster a continuously evolving, high-quality archive of both theoretical and empirical developments in LLM alignment. The broader vision is to scale this initiative into a community-oriented resource in the future. 
 
