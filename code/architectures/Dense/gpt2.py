@@ -6,7 +6,7 @@ import torch.nn as nn
 from torch.nn import functional as F
 from dataclasses import dataclass
 from transformers import GPT2LMHeadModel
-from loader import DataLoaderChinese
+from LLMs.GPTs.gpt2.loader import DataLoaderChinese
 
 @dataclass
 class GPTConfig():

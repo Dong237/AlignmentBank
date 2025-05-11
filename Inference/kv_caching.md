@@ -1,1 +1,0 @@
-[huggingface blog](https://huggingface.co/blog/not-lain/kv-caching)
