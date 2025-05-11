@@ -1,8 +1,7 @@
-# AlignmentBank
-This project serves as a personal repository for curated paper reading notes—currently centered on foundational large language model (LLM) techniques and LLM reasoning research—alongside selective code reproductions of key methodologies. 
+# 🏛️ AlignmentBank
+**AlignmentBank** is an ongoing repository of paper notes and selective code reproductions, focused on foundational LLM techniques, reasoning research, and, above all, alignment. It is a “bank” of that aims to facilitate alignment-related knowledge flow with zero interest rate 😎.
 
-
-The mission is to build a continuously evolving, high-quality repository of theoretical and empirical insights into large language models (LLMs), with an emphasis on alignment. The broader vision is to evolve this initiative into a community-oriented resource in the future. 
+The mission is to foster a continuously evolving, high-quality archive of both theoretical and empirical developments in LLM alignment. The broader vision is to scale this initiative into a community-oriented resource in the future. 
 
 The repository is actively maintained with weekly updates.
 
