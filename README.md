@@ -1,4 +1,4 @@
-# LLManager
+# AlignmentBank
 This project serves as a personal repository for curated paper reading notes—currently centered on foundational large language model (LLM) techniques and LLM reasoning research—alongside selective code reproductions of key methodologies. 
 
 
