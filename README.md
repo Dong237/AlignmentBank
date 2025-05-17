@@ -133,13 +133,13 @@ The repository is actively maintained with weekly updates.
 
 #### Supervised Fine-Tuning
 
-- [Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning](https://vaulted-hardware-c41.notion.site/Injecting-New-Knowledge-into-Large-Language-Models-via-Supervised-Fine-Tuning-Mecklenburg-et-al-2-12a2f406e62680c598a6c09c3e6e2f67)
+- [Injecting New Knowledge into Large Language Models via Supervised Fine-Tuning (Mecklenburg et al., 2024)](https://vaulted-hardware-c41.notion.site/Injecting-New-Knowledge-into-Large-Language-Models-via-Supervised-Fine-Tuning-Mecklenburg-et-al-2-12a2f406e62680c598a6c09c3e6e2f67)
 
 #### Reinforcement Learning
 
-- PPO: [Proximal Policy Optimization Algorithms](https://vaulted-hardware-c41.notion.site/Proximal-Policy-Optimization-Algorithms-1932f406e6268043bec7d20d000f0c75)
+- PPO: [Proximal Policy Optimization Algorithms (Schulman, et al., 2017)](https://vaulted-hardware-c41.notion.site/Proximal-Policy-Optimization-Algorithms-1932f406e6268043bec7d20d000f0c75)
 
-- DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://vaulted-hardware-c41.notion.site/Direct-Preference-Optimization-Your-Language-Model-is-Secretly-a-Reward-Model-1822f406e6268002a5dae77f801c146c?pvs=73)
+- DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (Rafailov et al., 2023)](https://vaulted-hardware-c41.notion.site/Direct-Preference-Optimization-Your-Language-Model-is-Secretly-a-Reward-Model-1822f406e6268002a5dae77f801c146c?pvs=73)
 
 - GRPO:
 
@@ -157,30 +157,27 @@ The repository is actively maintained with weekly updates.
 
 #### Verifiers
     
-    - [Training Verifiers to Solve Math Word Problems (Cobbe et al., 2021)](https://vaulted-hardware-c41.notion.site/Training-Verifiers-to-Solve-Math-Word-Problems-Cobbe-et-al-2021-1272f406e62680379431e2395cb52792)
+ - [Training Verifiers to Solve Math Word Problems (Cobbe et al., 2021)](https://vaulted-hardware-c41.notion.site/Training-Verifiers-to-Solve-Math-Word-Problems-Cobbe-et-al-2021-1272f406e62680379431e2395cb52792)
 
-    - [Solving math word problems with process and outcome-based feedback (Ursato et al., 2022)](https://vaulted-hardware-c41.notion.site/Solving-math-word-problems-with-process-and-outcome-based-feedback-Ursato-et-al-2022-1312f406e62680fd85e0d01cb3be5c22)
+ - [Solving math word problems with process and outcome-based feedback (Ursato et al., 2022)](https://vaulted-hardware-c41.notion.site/Solving-math-word-problems-with-process-and-outcome-based-feedback-Ursato-et-al-2022-1312f406e62680fd85e0d01cb3be5c22)
 
-    - [Let’s Verify Step by Step (Lightman et al., 2023)](https://vaulted-hardware-c41.notion.site/Let-s-Verify-Step-by-Step-Lightman-et-al-2023-1292f406e62680589dafe09f813d6028)
+ - [Let’s Verify Step by Step (Lightman et al., 2023)](https://vaulted-hardware-c41.notion.site/Let-s-Verify-Step-by-Step-Lightman-et-al-2023-1292f406e62680589dafe09f813d6028)
 
-    - [Improve Mathematical Reasoning in Language Models by Automated Process Supervision (Luo et al., 2024)](https://vaulted-hardware-c41.notion.site/Improve-Mathematical-Reasoning-in-Language-Models-by-Automated-Process-Supervision-Luo-et-al-2024-1352f406e62680a5a615dc556083fcbb)
+ - [Improve Mathematical Reasoning in Language Models by Automated Process Supervision (Luo et al., 2024)](https://vaulted-hardware-c41.notion.site/Improve-Mathematical-Reasoning-in-Language-Models-by-Automated-Process-Supervision-Luo-et-al-2024-1352f406e62680a5a615dc556083fcbb)
 
-    - [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://vaulted-hardware-c41.notion.site/Generative-Verifiers-Reward-Modeling-as-Next-Token-Prediction-1282f406e626803d8aeedf7175405080)
+ - [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://vaulted-hardware-c41.notion.site/Generative-Verifiers-Reward-Modeling-as-Next-Token-Prediction-1282f406e626803d8aeedf7175405080)
 
 
 #### Proposer
 
-    - [REFT: Reasoning with REinforced Fine-Tuning (Luong el al., 2024)](https://vaulted-hardware-c41.notion.site/REFT-Reasoning-with-REinforced-Fine-Tuning-Luong-el-al-2024-8f1365269f12432aa912f1ae16a22162)
+ - [REFT: Reasoning with REinforced Fine-Tuning (Luong el al., 2024)](https://vaulted-hardware-c41.notion.site/REFT-Reasoning-with-REinforced-Fine-Tuning-Luong-el-al-2024-8f1365269f12432aa912f1ae16a22162)
 
-    - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning (Xie et al.)](https://vaulted-hardware-c41.notion.site/Logic-RL-Unleashing-LLM-Reasoning-with-Rule-Based-Reinforcement-Learning-Xie-et-al-1a52f406e62680a588f8e9221ac4bb07)
+ - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning (Xie et al.)](https://vaulted-hardware-c41.notion.site/Logic-RL-Unleashing-LLM-Reasoning-with-Rule-Based-Reinforcement-Learning-Xie-et-al-1a52f406e62680a588f8e9221ac4bb07)
 
 
 
 #### Planning
 
-    - [Reasoning with Language Model is Planning with World Model (Hao et al., 2023)](https://vaulted-hardware-c41.notion.site/Reasoning-with-Language-Model-is-Planning-with-World-Model-Hao-et-al-2023-17a2f406e62680aebb5ecf1aed1e7ea0)
+ - [Reasoning with Language Model is Planning with World Model (Hao et al., 2023)](https://vaulted-hardware-c41.notion.site/Reasoning-with-Language-Model-is-Planning-with-World-Model-Hao-et-al-2023-17a2f406e62680aebb5ecf1aed1e7ea0)
 
-    - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://vaulted-hardware-c41.notion.site/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-1742f406e62680de8870fa04dc0ce4b4)
-
-
-
+ - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://vaulted-hardware-c41.notion.site/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-1742f406e62680de8870fa04dc0ce4b4)
