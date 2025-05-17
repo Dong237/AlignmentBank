@@ -19,9 +19,9 @@ The repository is actively maintained with weekly updates.
 
 ## 📚 Table of Contents
 
-* [🧠 Attention Mechanism](#attention-mechanism)
-* [🏗️ LLM Architecture Implementations](#llm-architecture-implementations)
-* [🧬 LLM Family](#llm-family)
+* [🧠 Attention Mechanism](#-attention-mechanism)
+* [🏗️ LLM Architecture Implementations](#️-llm-architecture-implementations)
+* [🧬 LLM Family](#-llm-family)
 
     * [GPTs](#gpts)
     * [Llamas](#llamas)
@@ -31,7 +31,7 @@ The repository is actively maintained with weekly updates.
     * [AI2](#ai2)
     * [Google](#google)
     
-* [🎯 LLM Alignment](#llm-alignment)
+* [🎯 LLM Alignment](#-llm-alignment)
 
     * [Algorithms](#algorithms)
     
@@ -42,8 +42,8 @@ The repository is actively maintained with weekly updates.
     
     * [LLM Reasoning](#llm-reasoning)
     
-        * [Verifiers - Reasoning with verification](#verifiers---reasoning-with-verification)
-        * [Proposer - reasoning by changing distribution](#proposer--reasoning-by-changing-distribution)
+        * [Verifiers](#verifiers)
+        * [Proposer](#proposer)
         * [Planning](#planning)
 
 
@@ -155,7 +155,7 @@ The repository is actively maintained with weekly updates.
 
 ### LLM Reasoning
 
-- Verifiers - Reasoning with verification:
+#### Verifiers
     
     - [Training Verifiers to Solve Math Word Problems (Cobbe et al., 2021)](https://vaulted-hardware-c41.notion.site/Training-Verifiers-to-Solve-Math-Word-Problems-Cobbe-et-al-2021-1272f406e62680379431e2395cb52792)
 
@@ -167,23 +167,20 @@ The repository is actively maintained with weekly updates.
 
     - [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://vaulted-hardware-c41.notion.site/Generative-Verifiers-Reward-Modeling-as-Next-Token-Prediction-1282f406e626803d8aeedf7175405080)
 
-    - []()
 
-- Proposer - reasoning by changing distribution
+#### Proposer
 
     - [REFT: Reasoning with REinforced Fine-Tuning (Luong el al., 2024)](https://vaulted-hardware-c41.notion.site/REFT-Reasoning-with-REinforced-Fine-Tuning-Luong-el-al-2024-8f1365269f12432aa912f1ae16a22162)
 
     - [Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning (Xie et al.)](https://vaulted-hardware-c41.notion.site/Logic-RL-Unleashing-LLM-Reasoning-with-Rule-Based-Reinforcement-Learning-Xie-et-al-1a52f406e62680a588f8e9221ac4bb07)
 
-    - []()
 
 
-- Planning
+#### Planning
 
     - [Reasoning with Language Model is Planning with World Model (Hao et al., 2023)](https://vaulted-hardware-c41.notion.site/Reasoning-with-Language-Model-is-Planning-with-World-Model-Hao-et-al-2023-17a2f406e62680aebb5ecf1aed1e7ea0)
 
     - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://vaulted-hardware-c41.notion.site/Tree-of-Thoughts-Deliberate-Problem-Solving-with-Large-Language-Models-1742f406e62680de8870fa04dc0ce4b4)
 
-    - []()
 
 
