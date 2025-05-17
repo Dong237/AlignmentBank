@@ -12,43 +12,39 @@ The repository is actively maintained with weekly updates.
 | Attention Mechanisms | MHA, MQA, SWA, GQA |
 | LLM Architectures    | Dense, MoE |
 | LLM Family           | GPT, LLaMA, Qwen, DeepSeek, etc. |
-| LLM Alignment        | Algorithms, LLM Reasoning etc. |
+| LLM Alignment        | Algorithms, Frameworkds, LLM Reasoning etc. |
 | xxxxx                |        xxxxx                 |
 
 
 
-## 📚 Catalog
+## 📚 Table of Contents
 
-1. [Attention Mechanism](#attention-mechanism)
+* [🧠 Attention Mechanism](#attention-mechanism)
+* [🏗️ LLM Architecture Implementations](#llm-architecture-implementations)
+* [🧬 LLM Family](#llm-family)
 
-2. [LLM Architecture Implementations](#llm-architecture-implementations)
+    * [GPTs](#gpts)
+    * [Llamas](#llamas)
+    * [Qwens](#qwens)
+    * [DeepSeek](#deepseek)
+    * [Mistral](#mistral)
+    * [AI2](#ai2)
+    * [Google](#google)
+    
+* [🎯 LLM Alignment](#llm-alignment)
 
-3. [LLM Family](#llm-family)
-    - [GPTs](#gpts)
-    - [Llamas](#llamas)
-    -  [Qwens](#qwens)
-    -  [DeepSeek](#deepseek)
-    -  [Mistral](#mistral)
-    -  [AI2](#ai2)
-    -  [Google](#google)
-
-4. [LLM Alignment](#llm-alignment)
-
-    - [Algorithms](#algorithms)
-
-        - [Supervised Fine-Tuning](#supervised-fine-tuning)
-
-        - [Reinforcement Learning](#reinforcement-learning)
-
-    - [LLM Reasoning](#llm-reasoning)
-
-        - [Verifiers](#verifiers---reasoning-with-verification)
-
-        - [Proposer](#proposer-reasoning-by-changing-distribution)
-
-        - [Planning](#planning)
-
-
+    * [Algorithms](#algorithms)
+    
+        * [Supervised Fine-Tuning](#supervised-fine-tuning)
+        * [Reinforcement Learning](#reinforcement-learning)
+      
+    * [Frameworks](#frameworks)
+    
+    * [LLM Reasoning](#llm-reasoning)
+    
+        * [Verifiers - Reasoning with verification](#verifiers---reasoning-with-verification)
+        * [Proposer - reasoning by changing distribution](#proposer--reasoning-by-changing-distribution)
+        * [Planning](#planning)
 
 
 ## 🧠 Attention Mechanism
@@ -151,6 +147,12 @@ The repository is actively maintained with weekly updates.
 
 - VAPO:
 
+### Frameworks
+
+- Megatron
+    
+    - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (Shoeybi et al., 2020)](https://vaulted-hardware-c41.notion.site/Megatron-LM-Training-Multi-Billion-Parameter-Language-Models-Using-Model-Parallelism-1f12f406e626807ba783e4c11042089a))
+
 ### LLM Reasoning
 
 - Verifiers - Reasoning with verification:
@@ -167,7 +169,7 @@ The repository is actively maintained with weekly updates.
 
     - []()
 
-- Proposer: reasoning by changing distribution
+- Proposer - reasoning by changing distribution
 
     - [REFT: Reasoning with REinforced Fine-Tuning (Luong el al., 2024)](https://vaulted-hardware-c41.notion.site/REFT-Reasoning-with-REinforced-Fine-Tuning-Luong-el-al-2024-8f1365269f12432aa912f1ae16a22162)
 
