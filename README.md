@@ -10,7 +10,7 @@ The repository is actively maintained with weekly updates.
 | Theme                | Subtopics |
 |----------------------|-----------|
 | Attention Mechanisms | MHA, MQA, SWA, GQA |
-| LLM Architectures    | Dense, MoE |
+| LLM Architectures    | Fundamentals, Implementations |
 | LLM Family           | GPT, LLaMA, Qwen, DeepSeek, etc. |
 | LLM Alignment        | Algorithms, Frameworkds, LLM Reasoning etc. |
 | xxxxx                |        xxxxx                 |
@@ -20,16 +20,20 @@ The repository is actively maintained with weekly updates.
 ## 📚 Table of Contents
 
 * [🧠 Attention Mechanism](#-attention-mechanism)
-* [🏗️ LLM Architecture Implementations](#️-llm-architecture-implementations)
+* [🏗️ LLM Architectures](#️-llm-architectures)
+  
+   * [Fundamentals](#fundamentals)
+   * [Implementations](#implementations)
+  
 * [🧬 LLM Family](#-llm-family)
 
-    * [GPTs](#gpts)
-    * [Llamas](#llamas)
-    * [Qwens](#qwens)
-    * [DeepSeek](#deepseek)
-    * [Mistral](#mistral)
-    * [AI2](#ai2)
-    * [Google](#google)
+   * [GPTs](#gpts)
+   * [Llamas](#llamas)
+   * [Qwens](#qwens)
+   * [DeepSeek](#deepseek)
+   * [Mistral](#mistral)
+   * [AI2](#ai2)
+   * [Google](#google)
     
 * [🎯 LLM Alignment](#-llm-alignment)
 
@@ -57,7 +61,15 @@ The repository is actively maintained with weekly updates.
 
 - Grouped-Query Attention: [Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://vaulted-hardware-c41.notion.site/GQA-Training-Generalized-Multi-Query-Transformer-Models-from-Multi-Head-Checkpoints-Ainslie-et-al--1be2f406e62680109cc9f88c614e26f8)
 
-## 🏗️ LLM Architecture Implementations
+## 🏗️ LLM Architectures 
+
+### Fundamentals
+
+- [RoFormer: Enhanced Transformer with Rotary Position Embedding (Su et al., 2021)](https://vaulted-hardware-c41.notion.site/RoFormer-Enhanced-Transformer-with-Rotary-Position-Embedding-Su-et-al-2021-1f82f406e626803baf93ea46f87ae991)
+
+- [GLU Variants Improve Transformer (Noam Shazeer, 2020)](https://vaulted-hardware-c41.notion.site/GLU-Variants-Improve-Transformer-Noam-Shazeer-2020-1fa2f406e62680d78939d8b112943e2e)
+
+### Implementations
 
 - [Reproducing dense models with GPT-2 as an example](./code/architectures/Dense/) (largely inspired by [Andrej Karpathy's video](https://www.youtube.com/watch?v=l8pRSuU81PU&t=11056s))
 
