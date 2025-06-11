@@ -154,6 +154,8 @@ The repository is actively maintained with weekly updates.
 - DPO: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (Rafailov et al., 2023)](https://vaulted-hardware-c41.notion.site/Direct-Preference-Optimization-Your-Language-Model-is-Secretly-a-Reward-Model-1822f406e6268002a5dae77f801c146c?pvs=73)
 
 - GRPO:
+  
+- REINFORCE++: [REINFORCE++: A SIMPLE AND EFFICIENT APPROACH FOR ALIGNING LARGE LANGUAGE MODELS (Jian Hu, 2025)](https://vaulted-hardware-c41.notion.site/REINFORCE-A-SIMPLE-AND-EFFICIENT-APPROACH-FOR-ALIGNING-LARGE-LANGUAGE-MODELS-Jian-Hu-2025-2072f406e62680d2861eccb79a708f1f)
 
 - DAPO:
 
